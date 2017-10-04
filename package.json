@@ -1,0 +1,32 @@
+{
+    "name": "raf-polyfill",
+    "version": "1.0.0",
+    "description": "Yet Another RequestAnimationFrame Polyfill",
+    "main": "raf.js",
+    "files": [
+        "raf.js",
+        "raf.min.js",
+        "README.md"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/airwave-development/raf-polyfill.git"
+    },
+    "keywords": [
+        "requestanimationframe",
+        "raf",
+        "polyfill",
+        "react",
+        "reactjs"
+    ],
+    "author": "Airwave",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/airwave-development/raf-polyfill/issues"
+    },
+    "homepage": "https://github.com/airwave-development/raf-polyfill#readme",
+    "devDependencies": {}
+}
